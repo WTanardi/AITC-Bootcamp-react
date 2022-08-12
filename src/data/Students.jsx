@@ -1,0 +1,58 @@
+  export const Students = [
+    {
+      id: 1,
+      firstName: "B.A.",
+      lastName: "Baracus",
+      ipk: 3.5,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 2,
+      firstName: "Theodore",
+      lastName: "Calvin",
+      ipk: 3.2,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 3,
+      firstName: "Sledge",
+      lastName: "Hammer",
+      ipk: 3.01,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 4,
+      firstName: "Peter",
+      lastName: "Thornton",
+      ipk: 3.1,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 5,
+      firstName: "Lynn",
+      lastName: "Tanner",
+      ipk: 2.9,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 6,
+      firstName: "April",
+      lastName: "Curtis",
+      ipk: 3.32,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 7,
+      firstName: "Angela",
+      lastName: "Bower",
+      ipk: 3.92,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+    {
+      id: 8,
+      firstName: "Jonathan",
+      lastName: "Higgins",
+      ipk: 2.7,
+      desc: "Lorem epsum blablab abalbla abalbalbalablsbalsbdla adblabdlasb...",
+    },
+  ];
